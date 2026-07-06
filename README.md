@@ -1,5 +1,7 @@
 # PISMA Security System
 
+[![GitHub Actions](https://github.com/Jauzaaji30/PISMA-SECURITY/actions/workflows/php.yml/badge.svg)](https://github.com/Jauzaaji30/PISMA-SECURITY/actions/workflows/php.yml)
+
 Sistem keamanan dan pelaporan tamu berbasis web untuk membantu pengelolaan kunjungan di kantor, gedung, atau area terbatas.
 
 ![PHP](https://img.shields.io/badge/PHP-8.2%2B-777BB4?style=for-the-badge&logo=php&logoColor=white)
